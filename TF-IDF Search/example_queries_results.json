@@ -1,0 +1,560 @@
+[
+    {
+        "query": "black death",
+        "relevant_article_titles": [
+            [
+                "Pandemic",
+                0.04679883867323402
+            ],
+            [
+                "Cholera",
+                0.014518164813892178
+            ],
+            [
+                "Antonine Plague",
+                0.013132843743864298
+            ],
+            [
+                "Epidemiology of HIV/AIDS",
+                0.011824072374200845
+            ],
+            [
+                "Bills of mortality",
+                0.008868054280650635
+            ],
+            [
+                "Spanish flu",
+                0.008559216569384194
+            ],
+            [
+                "1929\u00e2\u20ac\u201c1930 psittacosis pandemic",
+                0.008115106275689732
+            ],
+            [
+                "Pandemic Severity Assessment Framework",
+                0.007964826529843625
+            ],
+            [
+                "HIV/AIDS",
+                0.006800010001763728
+            ],
+            [
+                "COVID-19 pandemic",
+                0.0050011701466459975
+            ],
+            [
+                "Swine influenza",
+                0.004551329445624929
+            ]
+        ]
+    },
+    {
+        "query": "zoonotic diseases",
+        "relevant_article_titles": [
+            [
+                "Swine influenza",
+                0.03447721204255536
+            ],
+            [
+                "Disease X",
+                0.028899274748910762
+            ],
+            [
+                "Pandemic",
+                0.0220685370809864
+            ],
+            [
+                "Pandemic prevention",
+                0.013486328216158356
+            ],
+            [
+                "HIV/AIDS",
+                0.013433022571035201
+            ],
+            [
+                "Targeted immunization strategies",
+                0.0105545177343848
+            ],
+            [
+                "Science diplomacy and pandemics",
+                0.01032995352727023
+            ],
+            [
+                "HIV/AIDS in Yunnan",
+                0.008517680978626329
+            ],
+            [
+                "Cholera",
+                0.008194224738931659
+            ],
+            [
+                "Antonine Plague",
+                0.007412333065369478
+            ],
+            [
+                "Superspreader",
+                0.006473437543756011
+            ],
+            [
+                "COVID-19 pandemic",
+                0.00564543971839187
+            ],
+            [
+                "1929\u00e2\u20ac\u201c1930 psittacosis pandemic",
+                0.0045802624130349134
+            ],
+            [
+                "Pandemic Severity Assessment Framework",
+                0.004495442738719452
+            ],
+            [
+                "Basic reproduction number",
+                0.0044542001447862465
+            ],
+            [
+                "Epidemiology of HIV/AIDS",
+                0.001668411738081446
+            ],
+            [
+                "Virus",
+                0.0015661542444570995
+            ]
+        ]
+    },
+    {
+        "query": "swine flu",
+        "relevant_article_titles": [
+            [
+                "Swine influenza",
+                0.24831991905340112
+            ],
+            [
+                "Spanish flu",
+                0.06863563392473176
+            ],
+            [
+                "Pandemic",
+                0.02127047928297263
+            ],
+            [
+                "Unified Victim Identification System",
+                0.012562430717460344
+            ]
+        ]
+    },
+    {
+        "query": "cholera transmission",
+        "relevant_article_titles": [
+            [
+                "Cholera",
+                0.10997794221169559
+            ],
+            [
+                "Superspreader",
+                0.03910232183449139
+            ],
+            [
+                "Swine influenza",
+                0.031033588757532843
+            ],
+            [
+                "HIV/AIDS in Yunnan",
+                0.012862605866609008
+            ],
+            [
+                "1929\u00e2\u20ac\u201c1930 psittacosis pandemic",
+                0.006916684286761447
+            ],
+            [
+                "Virus",
+                0.0047301195767529905
+            ],
+            [
+                "Basic reproduction number",
+                0.004484211219551764
+            ]
+        ]
+    },
+    {
+        "query": "classification of viruses",
+        "relevant_article_titles": [
+            [
+                "Pandemic severity index",
+                0.10509988832327362
+            ],
+            [
+                "Virus",
+                0.06659622698501509
+            ],
+            [
+                "Viral load",
+                0.033601611922777795
+            ],
+            [
+                "Crimson Contagion",
+                0.03351433500869266
+            ],
+            [
+                "Disease X",
+                0.03072147375796827
+            ],
+            [
+                "Swine influenza",
+                0.02730797667374957
+            ],
+            [
+                "HIV/AIDS in Yunnan",
+                0.022636875400608197
+            ],
+            [
+                "Plague of Cyprian",
+                0.01592965305968725
+            ],
+            [
+                "HIV/AIDS",
+                0.013600020003527455
+            ],
+            [
+                "Spanish flu",
+                0.012838824854076293
+            ],
+            [
+                "Epidemiology of HIV/AIDS",
+                0.005912036187100423
+            ],
+            [
+                "COVID-19 pandemic",
+                0.0050011701466459975
+            ]
+        ]
+    },
+    {
+        "query": "economic impact of pandemics",
+        "relevant_article_titles": [
+            [
+                "Pandemic prevention",
+                0.08261617660435726
+            ],
+            [
+                "Pandemic Severity Assessment Framework",
+                0.05146805371366203
+            ],
+            [
+                "Pandemic",
+                0.03379752679269161
+            ],
+            [
+                "HIV/AIDS",
+                0.028888541700132594
+            ],
+            [
+                "Pandemic severity index",
+                0.027411818965501027
+            ],
+            [
+                "COVID-19 pandemic",
+                0.024793500775131396
+            ],
+            [
+                "PREDICT (USAID)",
+                0.02023253304596504
+            ],
+            [
+                "Spanish flu",
+                0.019024620625310414
+            ],
+            [
+                "Crimson Contagion",
+                0.016553890673971398
+            ],
+            [
+                "1929\u00e2\u20ac\u201c1930 psittacosis pandemic",
+                0.016198744487024387
+            ],
+            [
+                "Plague of Cyprian",
+                0.015736414591306144
+            ],
+            [
+                "Swine influenza",
+                0.006744177681988347
+            ],
+            [
+                "Antonine Plague",
+                0.006486766320080395
+            ],
+            [
+                "Science diplomacy and pandemics",
+                0.004520033978353892
+            ],
+            [
+                "Epidemiology of HIV/AIDS",
+                0.0029201594086959858
+            ],
+            [
+                "Unified Victim Identification System",
+                0.0028515650601695698
+            ],
+            [
+                "Cholera",
+                0.0017927560926804468
+            ]
+        ]
+    },
+    {
+        "query": "pandemic prevention organizations",
+        "relevant_article_titles": [
+            [
+                "Pandemic prevention",
+                0.2273367716764853
+            ],
+            [
+                "Pandemic Severity Assessment Framework",
+                0.048804330820589985
+            ],
+            [
+                "Event 201",
+                0.04582303339979459
+            ],
+            [
+                "Crimson Contagion",
+                0.03559722922973019
+            ],
+            [
+                "Pandemic",
+                0.03379752679269161
+            ],
+            [
+                "Pandemic severity index",
+                0.027411818965501027
+            ],
+            [
+                "HIV/AIDS",
+                0.02387466294335984
+            ],
+            [
+                "PREDICT (USAID)",
+                0.02023253304596504
+            ],
+            [
+                "Science diplomacy and pandemics",
+                0.0201193644974329
+            ],
+            [
+                "Spanish flu",
+                0.019024620625310414
+            ],
+            [
+                "Disease X",
+                0.017456393676112226
+            ],
+            [
+                "HIV/AIDS in Yunnan",
+                0.016419317341242027
+            ],
+            [
+                "Plague of Cyprian",
+                0.015736414591306144
+            ],
+            [
+                "Swine influenza",
+                0.014502574871371559
+            ],
+            [
+                "COVID-19 pandemic",
+                0.009881004510820137
+            ],
+            [
+                "Antonine Plague",
+                0.006486766320080395
+            ],
+            [
+                "1929\u00e2\u20ac\u201c1930 psittacosis pandemic",
+                0.006012498027810367
+            ],
+            [
+                "Epidemiology of HIV/AIDS",
+                0.0029201594086959858
+            ],
+            [
+                "Unified Victim Identification System",
+                0.0028515650601695698
+            ],
+            [
+                "Cholera",
+                0.0017927560926804468
+            ]
+        ]
+    },
+    {
+        "query": "spread of infectious diseases",
+        "relevant_article_titles": [
+            [
+                "Pandemic",
+                0.058281487072346067
+            ],
+            [
+                "Pandemic prevention",
+                0.05421791346042021
+            ],
+            [
+                "Disease X",
+                0.04635566842502299
+            ],
+            [
+                "Targeted immunization strategies",
+                0.029254545239235055
+            ],
+            [
+                "HIV/AIDS in Yunnan",
+                0.02360893124569846
+            ],
+            [
+                "Viral load",
+                0.022911516699897296
+            ],
+            [
+                "Basic reproduction number",
+                0.019460751000094728
+            ],
+            [
+                "HIV/AIDS",
+                0.016833027571917066
+            ],
+            [
+                "Virus",
+                0.016576078980047673
+            ],
+            [
+                "Antonine Plague",
+                0.013978754937301628
+            ],
+            [
+                "Pandemic Severity Assessment Framework",
+                0.012460269268563078
+            ],
+            [
+                "Cholera",
+                0.011823765942404703
+            ],
+            [
+                "Crimson Contagion",
+                0.011171445002897554
+            ],
+            [
+                "Science diplomacy and pandemics",
+                0.01032995352727023
+            ],
+            [
+                "1929\u00e2\u20ac\u201c1930 psittacosis pandemic",
+                0.00863781555087978
+            ],
+            [
+                "Superspreader",
+                0.006473437543756011
+            ],
+            [
+                "COVID-19 pandemic",
+                0.00564543971839187
+            ],
+            [
+                "Epidemiology of HIV/AIDS",
+                0.001668411738081446
+            ]
+        ]
+    },
+    {
+        "query": "prevention of viral infections",
+        "relevant_article_titles": [
+            [
+                "Viral load",
+                0.1785022549047533
+            ],
+            [
+                "Pandemic prevention",
+                0.10398900982786619
+            ],
+            [
+                "HIV/AIDS",
+                0.049700061362869995
+            ],
+            [
+                "Superspreader",
+                0.04016955793680521
+            ],
+            [
+                "Pandemic Severity Assessment Framework",
+                0.030908696719398318
+            ],
+            [
+                "Plague of Cyprian",
+                0.027154390162841237
+            ],
+            [
+                "Virus",
+                0.026661163379186094
+            ],
+            [
+                "HIV/AIDS in Yunnan",
+                0.023201684781886604
+            ],
+            [
+                "Basic reproduction number",
+                0.018915960568403223
+            ],
+            [
+                "Spanish flu",
+                0.011141925159337852
+            ],
+            [
+                "Epidemiology of HIV/AIDS",
+                0.010628039700803872
+            ],
+            [
+                "Science diplomacy and pandemics",
+                0.00822542434290938
+            ],
+            [
+                "Swine influenza",
+                0.008181903579190282
+            ],
+            [
+                "COVID-19 pandemic",
+                0.004495290047869079
+            ],
+            [
+                "Cholera",
+                0.003262404591702454
+            ]
+        ]
+    },
+    {
+        "query": "common symptoms of coronavirus",
+        "relevant_article_titles": [
+            [
+                "COVID-19 pandemic",
+                0.07623505151022944
+            ],
+            [
+                "Cholera",
+                0.02988077468142701
+            ],
+            [
+                "HIV/AIDS",
+                0.0279910814209415
+            ],
+            [
+                "Swine influenza",
+                0.02542050960046796
+            ],
+            [
+                "HIV/AIDS in Yunnan",
+                0.012862605866609008
+            ],
+            [
+                "Virus",
+                0.0047301195767529905
+            ]
+        ]
+    }
+]
