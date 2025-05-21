@@ -52,9 +52,3 @@ A collection of semantic and traditional search techniques implemented in Python
 - numpy, pandas
 
 ## License
-
-MIT License
-
----
-
-Feel free to update this README with more details about your implementation, usage examples, and results.
